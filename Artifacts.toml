@@ -1,0 +1,6 @@
+[msgpack_cxx]
+git-tree-sha1 = "ad357a4cb282090c376a16e4ce5da04bafff46a0"
+
+    [[msgpack_cxx.download]]
+    sha256 = "9c769f1e1424c8eb6ee8a144d2194b8790c26dd409c50a09bdad2445be647b8a"
+    url = "https://github.com/JuliaBinaryWrappers/msgpack_cxx_jll.jl/releases/download/msgpack_cxx-v6.1.1+0/msgpack_cxx.v6.1.1.any.tar.gz"
